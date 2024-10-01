@@ -1,0 +1,6 @@
+{
+  "NUMERO_SOLICITUD": "12345",
+  "TEXTO_A_CLASIFICAR": "Este es el texto que será clasificado",
+  "PREDICCION_NOMBRE_TDOC": "Declaraciones",
+  "PREDICCION_NOMBRE_SDOC": "Certificación"
+}
